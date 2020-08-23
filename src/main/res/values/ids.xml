@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lv_reports" type="id" />
+    <item name="tv_report" type="id" />
+    <item name="lv_bills" type="id" />
+    <item name="b_new" type="id" />
+    <item name="lv_pending_appontments" type="id" />
+</resources>
